@@ -56,7 +56,7 @@
 观澜是一个纯 Markdown 的 Skill，没有依赖、不联网、不调模型接口。
 
 ```bash
-git clone https://github.com/<your-name>/guanlan-skill.git ~/.claude/skills/guanlan
+git clone https://github.com/yt875148249-svg/guanlan-skill.git ~/.claude/skills/guanlan
 ```
 
 只要你的 agent 支持 `SKILL.md` 目录规范（Claude Code / Hermes / Cursor / 任何能读目录的本地模型），放到它的 skills 目录即可。

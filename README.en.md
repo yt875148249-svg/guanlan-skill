@@ -34,7 +34,7 @@ Every judgment in a report carries a method number. If it cannot be numbered, it
 Guanlan is pure Markdown: no dependencies, no network, no model API.
 
 ```bash
-git clone https://github.com/<your-name>/guanlan-skill.git ~/.claude/skills/guanlan
+git clone https://github.com/yt875148249-svg/guanlan-skill.git ~/.claude/skills/guanlan
 ```
 
 Works with any agent that reads a `SKILL.md` directory (Claude Code / Hermes / Cursor). For a plain chat model, paste `prompts/daily.md` and append the transcript.
